@@ -9,9 +9,7 @@ As a quick reminder, this came from one of three locations in either SSH, Git, o
 * https://matthewmccullough@github.com/matthewmccullough/hellogitworld.git
 
 We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
-<<<<<<< HEAD
-
---> On request, I'm adding a line of text at the end of this file. <--
-And we'll make pointless edits to files, too!
+Doning some changes
 This is nice
 And we'll make pointless edits to files, too!
+Even more changes.
